@@ -4,8 +4,8 @@
 // @description	  All sites
 // @include       *
 // @version       00.00.01
-// @downloadURL   https://github.com/yweba/yweba/allsites.user.js
-// @updateURL     https://github.com/yweba/yweba/allsites.user.js
+// @downloadURL   https://github.com/yweba/yweba/blob/master/allsites.user.js
+// @updateURL     https://github.com/yweba/yweba/blob/master/allsites.user.js
 // @grant         GM_log
 // @grant         GM_xmlhttpRequest
 // ==/UserScript==
