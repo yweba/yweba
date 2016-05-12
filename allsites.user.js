@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name          All sites 00.00.04
+// @name          All sites
 // @namespace     all_sites
-// @description	  All sites 00.00.04
+// @description	  All sites
 // @include       *
 // @version       00.00.04
 // @downloadURL   https://github.com/yweba/yweba/raw/master/allsites.user.js
