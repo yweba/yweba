@@ -3,13 +3,13 @@
 // @namespace     all_sites
 // @description	  All sites
 // @include       *
-// @version       00.00.02
-// @downloadURL   https://github.com/yweba/yweba/blob/master/allsites.user.js
-// @updateURL     https://github.com/yweba/yweba/blob/master/allsites.user.js
+// @version       00.00.03
+// @downloadURL   https://github.com/yweba/yweba/raw/master/allsites.user.js
+// @updateURL     https://github.com/yweba/yweba/raw/master/allsites.user.js
 // @grant         GM_log
 // @grant         GM_xmlhttpRequest
 // ==/UserScript==
 
 (function(){
-  console.log("test 2");
+  console.log("test 3");
 })();
